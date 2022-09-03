@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27a69be2-d993-473f-a304-f63de3f60fb2" name="Changes" comment="Created GaussianAddition.java class">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="27a69be2-d993-473f-a304-f63de3f60fb2" name="Changes" comment="created method to calculate Gaussian Addition">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/aditya/GaussianAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/aditya/GaussianAddition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662209590517</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created README.md">
+      <created>1662209867627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662209867627</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created method to calculate Gaussian Addition">
+      <created>1662209959056</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662209959056</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +95,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Created GaussianAddition.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created GaussianAddition.java class" />
+    <MESSAGE value="created README.md" />
+    <MESSAGE value="created method to calculate Gaussian Addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="created method to calculate Gaussian Addition" />
   </component>
 </project>
