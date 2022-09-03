@@ -6,4 +6,12 @@
 package com.aditya;
 
 public class GaussianAddition {
+
+    public double gaussianAddition(double number) {
+        double a = 0;
+        for (int i = 1; i <= number; i++) {
+            a +=i;
+        }
+        return a;
+    }
 }
